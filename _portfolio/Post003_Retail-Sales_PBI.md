@@ -8,7 +8,7 @@ toc_label: "Contents"
 toc_sticky: true
 header:
   # image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/PowerBI/Teasers/Sales/Teaser.png
+  teaser: assets/images/PowerBI/PowerBI_Teaser.png
 sidebar:
   - title: "Retail Sales KPIs Dashboard"
     image: /assets/images/PowerBI/PowerBI_Logo.png

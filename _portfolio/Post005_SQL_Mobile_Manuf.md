@@ -1,48 +1,25 @@
 ---
 title: "SQL: Mobile Manufacturer Data Analysis"
 excerpt: "Analysis of Manufacturer's data for various products"
-permalink: /Sports-Analysis-Exce
+permalink: /sql-mobile-manf
 # classes: wide
 toc: true
 toc_label: "Contents"
 toc_sticky: true
 header:
   # image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/Excel/Teasers/Sports_Data/Teaser.png
+  teaser: assets/images/SQL/SQL_Teaser.png
 sidebar:
-  - title: "Sports Dataset Cleaning"
+  - title: "Mobile Manufacturers data EDA"
     image: /assets/images/SQL/SQL_Logo.png
     image_alt: "logo"
-    text: "Usage of Index(Match()) among others"
+    text: "Usage of multiple joins, UNION, LAG() etc."
   # - title: "In page Title 2 of Another"
   #   text: "In pageText 2 of Another"
 
 
-# gallery:
-#   - url: assets/images/PowerBI/Retail_Dashboard.png
-#     image_path: assets/images/PowerBI/Retail_Dashboard.png
-#     alt: "placeholder image 1"
-#   - url: assets/images/PowerBI/Retail_Dashboard.png
-#     image_path: assets/images/PowerBI/Retail_Dashboard.png
-#     alt: "placeholder image 2"
-#   - url: assets/images/PowerBI/Retail_Dashboard.png
-#     image_path: assets/images/PowerBI/Retail_Dashboard.png
-#     alt: "placeholder image 3"
+     
 ---
-<!-- 
-## Excel Workbook
-
-Live Excel Workbook (View Workbook in <a href="https://onedrive.live.com/view.aspx?resid=CEA95E92A534446E!1290&ithint=file%2cxlsx&authkey=!AImokmU1ZLtbdfw"> New Tab</a>) :
-
-<iframe title="E-commerce Case Study" width="745" height="430" src="https://onedrive.live.com/view.aspx?resid=CEA95E92A534446E!1290&ithint=file%2cxlsx&authkey=!AImokmU1ZLtbdfw" frameborder="0" allowFullScreen="true"></iframe>
-
-## Gallery
-
-{% include gallery caption="This is a sample gallery to go along with this case study." %} -->
-
-
-
-## Mobile Manufacturer EDA Assignment by AnalytixLabs Noida
 
 > #### Q7. List if there is any model that was in the top 5 in terms of quantity, simultaneously in 2008, 2009 and 2010
 
