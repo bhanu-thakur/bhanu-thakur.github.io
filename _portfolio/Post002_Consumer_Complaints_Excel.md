@@ -8,7 +8,7 @@ toc_label: "Contents"
 toc_sticky: true
 header:
   # image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/Excel/Teasers/Consumer_Complaints/Teaser.png
+  teaser: assets/images/Excel/Excel_Teaser.png
 sidebar:
   - title: "Complaints Analysis"
     image: /assets/images/Excel/Excel_Logo.png

@@ -11,7 +11,7 @@ toc_sticky: true
 
 header:
   # image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/PowerBI/Teasers/E-Commerce/Teaser.png
+  teaser: assets/images/PowerBI/PowerBI_Teaser.png
 
 sidebar:
   - title: "Customer Behaviour Insights"
