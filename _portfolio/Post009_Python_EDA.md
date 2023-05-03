@@ -23,6 +23,10 @@ sidebar:
 
 ```
 |
-> # Upcoming
+> Work Incomplete
 |
 ```
+## Usage of Pandas and Numpy for Basic Exploratory Data Analysis
+(Course 4 Google Advance Data Analytics)
+
+<script src="https://gist.github.com/bhanu-thakur/76b487967602ddbabea7be0927ca2b42.js"></script>

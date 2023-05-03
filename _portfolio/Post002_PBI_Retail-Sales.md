@@ -30,11 +30,19 @@ sidebar:
 #     alt: "placeholder image 3"
 ---
 
-## Live Power BI Dashboard
+# Live Dashboard: 
 
 Live Power BI Dashboard (Expand for full screen, navigation at bottom) :
 <iframe title="E-commerce Case Study" width="860" height="480" src="https://app.powerbi.com/view?r=eyJrIjoiZDA1ZTljYTItMjdkMy00YmY3LWI1ZGUtN2EwM2IwZTg3ZWVhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" frameborder="0" allowFullScreen="true"></iframe>
 
-## Gallery
+# Screens and Info:
 
+> ### A Dashboard consisting of KPIs and Charts for a Sales Dataset. Filters can be applied for further drilling, and Clear All button resets the filters.
+
+![image](https://raw.githubusercontent.com/bhanu-thakur/friendly-sniffle/main/assets/Power%20BI/Images/Retail/Sales%20Dashboard.png)
+> ### A Details Page for Overview Metrics
+![image](https://raw.githubusercontent.com/bhanu-thakur/friendly-sniffle/main/assets/Power%20BI/Images/Retail/Sales%20Dashboard%20Details.png)
+
+
+## Gallery
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
